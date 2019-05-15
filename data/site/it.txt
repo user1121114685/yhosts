@@ -1,10 +1,18 @@
-#admin5.com
-127.0.0.1 100.admin5.com
+#51cto.com
+127.0.0.1 gg.51cto.com
+127.0.0.1 gg2.51cto.com
+127.0.0.1 gg3.51cto.com
+127.0.0.1 logs.51cto.com
 #android.18183.com
 127.0.0.1 eezdx.erc.18183.com
 #anquan
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+#anzhi.com
+127.0.0.1 fd.anzhi.com
+127.0.0.1 pv.anzhi.com
+#base64.xpcha.com
+127.0.0.1 www.pikacn.com
 #bbs.hiapk.com
 127.0.0.1 s1.hiapk.com
 127.0.0.1 s2.hiapk.com
@@ -19,6 +27,7 @@
 #chinaz.com
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
+127.0.0.1 cdn.earnify.com
 127.0.0.1 analytics.jiuzhilan.com
 127.0.0.1 app.jiuzhilan.com
 127.0.0.1 cdn.jiuzhilan.com
@@ -30,8 +39,6 @@
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
-#codego.net
-127.0.0.1 z22.jxydsb.com
 #csdn.net
 127.0.0.1 ad.csdn.net
 127.0.0.1 ads.csdn.net
@@ -39,6 +46,9 @@
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
 127.0.0.1 img.ads.csdn.net
+127.0.0.1 medal.blog.csdn.net
+127.0.0.1 cee1.iteye.com
+127.0.0.1 cee2.iteye.com
 127.0.0.1 mpb1.iteye.com
 127.0.0.1 mpb2.iteye.com
 #dedecms.com
@@ -57,17 +67,15 @@
 127.0.0.1 g.x.evolife.cn
 #feng.com
 127.0.0.1 yes1.feng.com
-127.0.0.1 lynn.zgsemi.cn
-127.0.0.1 ss2.zsjuchang.cn
 #it168.com
 127.0.0.1 168.it168.com
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 #mydrivers.com 
 127.0.0.1 icons.mydrivers.com
+127.0.0.1 xc.mydrivers.com
+#orsoon.com
 #wap.ithome.com
-127.0.0.1 1.win7china.com
-127.0.0.1 2.win7china.com
 #jb51.net
 127.0.0.1 bdjs.jb51.net
 127.0.0.1 dm.jb51.net
@@ -89,7 +97,6 @@
 127.0.0.1 count5.pconline.com.cn
 127.0.0.1 count6.pconline.com.cn
 127.0.0.1 imgad0.pconline.com.cn
-127.0.0.1 c.ypmob.com
 #pcpop.com
 127.0.0.1 33.pcpop.com
 127.0.0.1 ashow.pcpop.com
@@ -114,15 +121,28 @@
 127.0.0.1 stat.zdnet.com.cn
 #zol.com.cn
 127.0.0.1 api.zol.com
-127.0.0.1 afp.zol-img.com.cn
-127.0.0.1 pic.zol-img.com.cn
+127.0.0.1 cpro.zol.com.cn
 127.0.0.1 dynamic.zol.com.cn
 127.0.0.1 imp.zol.com.cn
+127.0.0.1 js.zol.com.cn
+127.0.0.1 mstat.zol.com.cn
 127.0.0.1 pv.zol.com.cn
 127.0.0.1 pvc.zol.com.cn
 127.0.0.1 pvm.zol.com.cn
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
+127.0.0.1 pvtest.zol.com.cn
 127.0.0.1 stat.zol.com.cn
+127.0.0.1 wappv.zol.com.cn
+127.0.0.1 ydjs.zol.com.cn
+127.0.0.1 afp.zol-img.com.cn
+127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
+#https://wap.zol.com.cn/ask/x_416606.html
+127.0.0.1 api.callget.cn
+127.0.0.1 media.adget.cn
+#aizhan.com
+127.0.0.1 dm.aizhan.com
+127.0.0.1 dmm.aizhan.com
+127.0.0.1 fpbb.aizhan.com

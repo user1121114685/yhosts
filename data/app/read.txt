@@ -10,9 +10,15 @@
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
 #http://i.ifeng.com/
-127.0.0.1 api.iapps.ifeng.com
 127.0.0.1 api.newad.ifeng.com
+127.0.0.1 ax.ifeng.com
+127.0.0.1 dmpclick.deliver.ifeng.com
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 err.ifengcloud.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
+127.0.0.1 ids1.deliver.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 iis3g.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
@@ -22,9 +28,12 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 js.51taifu.com
 127.0.0.1 wl.51taifu.com
+#https://www.ruguoapp.com/
+127.0.0.1 sensorsdata.ruguoapp.com
 #http://itaoxiaoshuo.com/
 127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 itaoxiaoshuo.com
+127.0.0.1 rpnews.itaoxiaoshuo.com
 #https://itunes.apple.com/cn/app/lao-zi-sou-shu/id1147985301
 127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 #http://kuaibao.qq.com/mobile.html
@@ -36,12 +45,16 @@
 #http://m.jiemian.com/
 127.0.0.1 ad.jiemian.com
 #http://m.thepaper.cn/
-127.0.0.1 ad.thepaper.cn
+127.0.0.1 adpai.thepaper.cn
 127.0.0.1 imgad.thepaper.cn
+127.0.0.1 imgadpai.thepaper.cn
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
-127.0.0.1 temai.snssdk.com
+127.0.0.1 dm.toutiao.com
 127.0.0.1 analytics.snssdk.com
+127.0.0.1 temai.snssdk.com
+127.0.0.1 dm.bytedance.com
+127.0.0.1 dm.pstatp.com
 127.0.0.1 pb3.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
@@ -56,23 +69,35 @@
 #http://www.dmzj.com/
 127.0.0.1 ad.bayescom.com
 #http://www.qidian.com/
-127.0.0.1 a.game.qidian.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 dwtrack.qidian.com
 127.0.0.1 o.if.qidian.com
-127.0.0.1 tongji.qidian.com
 127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
 #http://www.wufazhuce.com/
-127.0.0.1 click.focusad.cn
 127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 www.cpv6.com
+#https://www.yidianzixun.com/
+127.0.0.1 imagelx.yidianzixun.com
+127.0.0.1 l.yidianzixun.com
+127.0.0.1 lx-upload-log.yidianzixun.com
+127.0.0.1 s.yidianzixun.com
 #http://www.zhuishushenqi.com/
 127.0.0.1 ad.ipadview.com
 127.0.0.1 stats.magicwindow.cn
+127.0.0.1 alertserver.ushaqi.com
+127.0.0.1 d.1391.com
+127.0.0.1 lyapi.1391.com
+127.0.0.1 lyjk.1391.com
+127.0.0.1 lylog.1391.com
+127.0.0.1 mhd.1391.com
+127.0.0.1 mhdpay.1391.com
+127.0.0.1 mhdtestks3.1391.com
+127.0.0.1 mhdufile.1391.com
+127.0.0.1 mhjk.1391.com
+127.0.0.1 sqtpks3.1391.com
 #http://zhangyue.com/
 127.0.0.1 am.g.ireader.com
 127.0.0.1 img.ad.zhangyue.com

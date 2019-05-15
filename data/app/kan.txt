@@ -18,21 +18,23 @@
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 m.1768.com
 #app.starschina.com
-127.0.0.1 ad-cache.dopool.com
 127.0.0.1 analytics3.dopool.com
-127.0.0.1 adapi.starschina.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
-#cctv
+#http://app.cctv.com/appkhdxz/ydb/index.shtml
+127.0.0.1 mdrecv.app.cntvwb.cn
+127.0.0.1 sdapprecv.app.cntvwb.cn
+127.0.0.1 vdapprecv.app.cntvwb.cn
+127.0.0.1 cws-cctv.conviva.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
 #fun.tv
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adm.funshion.com
 127.0.0.1 conf.funshion.com
-127.0.0.1 jobsfe.funshion.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 vs.funshion.com
 127.0.0.1 rt.funshion.net
@@ -45,9 +47,17 @@
 127.0.0.1 log1.molitv.cn
 127.0.0.1 log2.molitv.cn
 127.0.0.1 track.molitv.cn
+#OpenSubtitles.org
+127.0.0.1 ads2.opensubtitles.org
+#http://www.tiantiankan123.com/
+127.0.0.1 item.ttkvod.com
 #http://www.wasu.cn/
 127.0.0.1 ads.wasu.tv
+127.0.0.1 adsystem.wasu.tv
+127.0.0.1 adwasu.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 collector.wasu.cn
+127.0.0.1 delivery-pc.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com
 #yeshitv.com
@@ -61,6 +71,9 @@
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 m.aty.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
+127.0.0.1 agn.aty.snmsohu.aisee.tv
+127.0.0.1 m.aty.snmsohu.aisee.tv
+127.0.0.1 mmg.aty.snmsohu.aisee.tv
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
@@ -112,6 +125,10 @@
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
+127.0.0.1 apm.suning.cn
+127.0.0.1 click.suning.cn
+127.0.0.1 dfp.suning.com
+127.0.0.1 ssac.suning.com
 #http://yn.voole.com/app
 127.0.0.1 adinf.voole.com
 127.0.0.1 apkinfo.voole.com
@@ -123,3 +140,5 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
+#rrys
+127.0.0.1 pat.farvd.com

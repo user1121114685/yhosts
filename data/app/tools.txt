@@ -9,11 +9,14 @@
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 scene.vip.xunlei.com
+127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
+#http://mac.xunlei.com/
+127.0.0.1 liveupdate.mac.sandai.net
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 api.appodeal.com
-127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
 #http://www.chubao.cn/
 127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
@@ -39,19 +42,19 @@
 127.0.0.1 news-log.51y5.net
 127.0.0.1 news.51y5.net
 127.0.0.1 push-dc.51y5.net
-127.0.0.1 wifiapi02.51y5.net
 127.0.0.1 c.wkanx.com
 127.0.0.1 c1.wkanx.com
 127.0.0.1 static.wkanx.com
+#kuaixia
+127.0.0.1 api.ad.xv555.com
+#wifi8.com
+127.0.0.1 adnew.wifi8.com
+127.0.0.1 cmsapi.wifi8.com
 #wifiwnmm
 127.0.0.1 wifishow.ggsafe.com
-127.0.0.1 igou.ggsafe.com
 #http://zdworks.com/
 127.0.0.1 ad.zdworks.com
 127.0.0.1 adclock.zdworks.com
-127.0.0.1 cal.stat.zdworks.com
-127.0.0.1 cal.stat2.zdworks.com
-127.0.0.1 clock.stat2.zdworks.com
 127.0.0.1 nexstep.zdworks.com
 127.0.0.1 push.zdworks.com
 127.0.0.1 api.pingstart.com

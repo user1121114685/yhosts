@@ -1,4 +1,16 @@
-#allsinaimg
+#aliimg
+127.0.0.1 img.alicdn.com
+#baiduimg
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
+127.0.0.1 ss0.baidu.com
+127.0.0.1 ss1.baidu.com
+127.0.0.1 ss2.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
+#sinaimg
 127.0.0.1 ww1.sinaimg.cn
 127.0.0.1 ww2.sinaimg.cn
 127.0.0.1 ww3.sinaimg.cn
@@ -7,11 +19,3 @@
 127.0.0.1 wx2.sinaimg.cn
 127.0.0.1 wx3.sinaimg.cn
 127.0.0.1 wx4.sinaimg.cn
-#baiduimg
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com
-127.0.0.1 ss0.baidu.com
-127.0.0.1 ss1.baidu.com
-127.0.0.1 ss2.baidu.com
-

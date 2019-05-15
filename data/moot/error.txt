@@ -1,0 +1,44 @@
+@errorpage/click
+127.0.0.1 go.fcwr8.com
+127.0.0.1 pro.yyhudong.com
+127.0.0.1 marketres.feidee.com
+127.0.0.1 app.shandjj.com
+127.0.0.1 clkde.tradedoubler.com
+127.0.0.1 dorado.xiaojukeji.com
+@errorpage/weixin
+127.0.0.1 vzan.com
+127.0.0.1 wx.shunliandongli.com
+#www.youzan.com
+127.0.0.1 tj.koudaitong.com
+#yy
+127.0.0.1 ppiy.v5.yy.com
+@errorpage/inside
+127.0.0.1 activity.m.duiba.com.cn
+127.0.0.1 embedlog.duiba.com.cn
+127.0.0.1 yun.duiba.com.cn
+127.0.0.1 www.duiba.com.cn
+127.0.0.1 m.maila88.com
+127.0.0.1 api.tatagou.com.cn
+127.0.0.1 log.ttjx.tatagou.com.cn
+127.0.0.1 ttg.cdn.suanzi.cn
+127.0.0.1 s.youzhuanhua.com
+@errorpage/daohang
+127.0.0.1 www.2345.com
+127.0.0.1 www.hao123.com
+127.0.0.1 m.hao123.com
+127.0.0.1 vs12.bj.u3.ucweb.com
+127.0.0.1 yeah.qq.com
+@errorpage/sns
+127.0.0.1 www.saxmcu.cn
+127.0.0.1 ndyjs.xjtu.edu.cn
+127.0.0.1 tw.find2c.com
+127.0.0.1 zxyjhx.gszy.edu.cn
+127.0.0.1 www.cnys.com
+127.0.0.1 eng.liveapp.cn
+127.0.0.1 open.liveapp.cn
+127.0.0.1 www.360clg.cn
+127.0.0.1 www.yiqixiu.com
+127.0.0.1 m.ishangtong.com
+127.0.0.1 www.taoev.com
+127.0.0.1 wodeai.cn
+127.0.0.1 www.goubt.top

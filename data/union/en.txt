@@ -18,16 +18,21 @@
 127.0.0.1 su.addthis.com
 #adinall.com
 127.0.0.1 ads.adinall.com
+127.0.0.1 app-tj.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 pmp.adinall.com
-#adjust.com
-127.0.0.1 app.adjust.com
 #adk2.co
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
+#adk2x.com
+127.0.0.1 a.adk2x.com
+127.0.0.1 adplexmedia.adk2x.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 ns8.adk2x.com
+127.0.0.1 wmedia.adk2x.com
+127.0.0.1 yepdigital.adk2x.com
 #admarvel.com
 127.0.0.1 ads.admarvel.com
-127.0.0.1 www.admarvel.com
 #admedia.com
 127.0.0.1 admedia.com
 127.0.0.1 b.admedia.com
@@ -35,13 +40,14 @@
 127.0.0.1 inline.admedia.com
 127.0.0.1 m.admedia.com
 #adnxs.com
-127.0.0.1 acdn.adnxs.com
 127.0.0.1 admeld.adnxs.com
+127.0.0.1 adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
 127.0.0.1 g.adnxs.com
 127.0.0.1 gam.adnxs.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 m.adnxs.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 secure-sin.adnxs.com
 127.0.0.1 secure.adnxs.com
@@ -49,8 +55,6 @@
 127.0.0.1 ym.adnxs.com
 #adperium.com
 127.0.0.1 adperium.com
-#adplxmd.com
-127.0.0.1 cdn.adplxmd.com
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
@@ -96,7 +100,6 @@
 127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 hq.appsflyer.com
-127.0.0.1 partners.appsflyer.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
@@ -108,7 +111,6 @@
 127.0.0.1 analytics.atdmt.com
 127.0.0.1 api.atdmt.com
 127.0.0.1 atdmt.com
-127.0.0.1 atlasdmt.com
 127.0.0.1 c.atdmt.com
 127.0.0.1 click.atdmt.com
 127.0.0.1 clk.atdmt.com
@@ -179,11 +181,7 @@
 127.0.0.1 settings.crashlytics.com
 #criteo.com
 127.0.0.1 cas.criteo.com
-127.0.0.1 cat.sh.cn.criteo.com
-127.0.0.1 dis.cn.criteo.com
 127.0.0.1 dis.criteo.com
-127.0.0.1 dis.ny.us.criteo.com
-127.0.0.1 dis.sh.cn.criteo.com
 127.0.0.1 dis.us.criteo.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 rtax.criteo.com
@@ -198,10 +196,6 @@
 127.0.0.1 static.csbew.com
 127.0.0.1 tga.csbew.com
 127.0.0.1 tgb.csbew.com
-#directrev.com
-127.0.0.1 ad.directrev.com
-127.0.0.1 cdn.directrev.com
-127.0.0.1 ggo.directrev.com
 #drawbridge.com
 127.0.0.1 api.adsymptotic.com
 127.0.0.1 p.adsymptotic.com
@@ -239,7 +233,6 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
-127.0.0.1 ssl.google-analytics.com
 #gosquared.com
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
@@ -316,19 +309,17 @@
 127.0.0.1 telstra.imrworldwide.com
 #inmobi.com
 127.0.0.1 i.l.inmobicdn.net
-127.0.0.1 a.ai.inmobi.com
+127.0.0.1 au.w.inmobi.cn
+127.0.0.1 sdkm.w.inmobi.cn
 127.0.0.1 api.w.inmobi.com
 127.0.0.1 apptv.w.inmobi.com
-127.0.0.1 au-cn.w.inmobi.com
+127.0.0.1 au.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.inmobi.com
-127.0.0.1 dock.inmobi.com
-127.0.0.1 e-ltvp.inmobi.com
-127.0.0.1 et-cn.w.inmobi.com
+127.0.0.1 et.w.inmobi.com
 127.0.0.1 i.w.inmobi.com
-127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 www.inmobi.com
 #intellitxt.com
@@ -355,18 +346,7 @@
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 pages2.marketo.com
 #mdotm.com
-127.0.0.1 ads.mdotm.com
-127.0.0.1 cdn.mdotm.com
 #mgid.com
-127.0.0.1 aa-gb.mgid.com
-127.0.0.1 aa.goodsblock.mgid.com
-127.0.0.1 ab-gb.mgid.com
-127.0.0.1 ab.goodsblock.mgid.com
-127.0.0.1 ac-gb.mgid.com
-127.0.0.1 ad-gb.mgid.com
-127.0.0.1 ae-gb.mgid.com
-127.0.0.1 aj-gb.mgid.com
-127.0.0.1 fem.mgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 mgid.com
@@ -376,7 +356,6 @@
 127.0.0.1 ads.nexage.com
 127.0.0.1 cdn.millennialmedia.com
 127.0.0.1 images.millennialmedia.com
-127.0.0.1 millennialmedia.com
 127.0.0.1 www.millennialmedia.com
 #mobfox
 127.0.0.1 my.mobfox.com
@@ -388,17 +367,12 @@
 127.0.0.1 ads.mopub.com
 127.0.0.1 analytics.mopub.com
 127.0.0.1 www.mopub.com
-#msn
-127.0.0.1 ads1.msads.net
-127.0.0.1 mobileads.msn.com
 #mydas.mobi
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.mydas.mobi
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 cvt.mydas.mobi
 #netshelter.net
-127.0.0.1 ad1.netshelter.net
-127.0.0.1 track.netshelter.net
 #newrelic.com
 127.0.0.1 newrelic.com
 #pixelsad
@@ -429,8 +403,6 @@
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
 #scrippsnetworks
-127.0.0.1 aam.adsremote.scrippsnetworks.com
-127.0.0.1 adsremote.scrippsnetworks.com
 #segment.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 mobile-service.segment.com
@@ -471,6 +443,14 @@
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 rto.steelhousemedia.com
 #taboola
+127.0.0.1 15.taboola.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 images.taboola.com
+127.0.0.1 imprhkmp.taboola.com
+127.0.0.1 match.taboola.com
+127.0.0.1 trc.taboola.com
+127.0.0.1 vidstat.taboola.com
+127.0.0.1 cdn.taboola.com.cn
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn
@@ -479,6 +459,7 @@
 127.0.0.1 ws.tapjoyads.com
 #trafficjunky.net
 127.0.0.1 ads.trafficjunky.net
+127.0.0.1 media.trafficjunky.net
 127.0.0.1 vz-cdn.trafficjunky.net
 #turn
 127.0.0.1 analytics.turn.com
@@ -530,3 +511,11 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+#ot
+127.0.0.1 eus.rubiconproject.com
+127.0.0.1 i.liadm.com
+127.0.0.1 i.ssix.io
+127.0.0.1 load77.exelator.com
+127.0.0.1 stags.bluekai.com
+127.0.0.1 sync.crwdcntrl.net
+127.0.0.1 server.exposebox.com
